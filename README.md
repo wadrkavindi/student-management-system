@@ -60,14 +60,3 @@ The application uses SQLite to store student information, including Student ID, 
 ## Purpose
 
 This project was developed to practise Python programming, object-oriented programming, database management, and graphical user interface development.
-
-## Screenshots
-
-Screenshots of the application are available in the `screenshots` folder.
-
-* Main Interface: `screenshots/main_interface.png`
-* Student Records: `screenshots/student_records.png`
-* Search Feature: `screenshots/search_feature.png`
-* Add Student: `screenshots/add_student.png`
-* Update Feature: `screenshots/update_student.png`
-* Delete Feature: `screenshots/delete_student.png`
